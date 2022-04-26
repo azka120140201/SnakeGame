@@ -105,7 +105,7 @@ class Fruit:
 		self.y = random.randint(0,cell_number - 1)
 		self.pos = Vector2(self.x,self.y)
 
-class MAIN:
+class Main:
 	def __init__(self):
 		self.snake = Snake()
 		self.fruit = Fruit()
@@ -187,7 +187,7 @@ game_font = pygame.font.Font('Font/Papernotes.ttf', 25)
 SCREEN_UPDATE = pygame.USEREVENT
 pygame.time.set_timer(SCREEN_UPDATE,150)
 
-main_game = MAIN()
+main_game = Main()
 
 while True:
 	for event in pygame.event.get():
