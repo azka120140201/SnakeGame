@@ -6,5 +6,5 @@
 - Joy Arta Br Sitinjak (120140101)
 - Ferawati Manurung (120140196)
 
-#Snake Game
-A snake game is a simple game where a snake moves around a box/wall trying to eat a fruit. Once it succesfully eats the fruit, the length of the snake increases.
+# Snake Game
+A snake game is a simple game where a snake moves trying to eat a fruit. Once it succesfully eats the fruit, the length of the snake increases.
