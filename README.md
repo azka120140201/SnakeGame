@@ -11,8 +11,7 @@ Snake Games adalah sebuah permainan tentang seekor ular yang mencari makanan. Se
 
 
 # Cara Bermain
-
-
+Cara bermainnya adalah seperti Snake Game pada umumnya, yaitu dengan menggunakan arrow keys. Sesuai dengan anak panahnya, snake akan bergerak menuju arah yang dipencet pada arrow key. Jika snake memakan makanan yang ada pada screen, tubuh snake akan bertambah panjang sesuai jumlah snake memakan makanan tersebut. Ketika snake menabrak dirinya sendiri atau menabrak board maka permainan akan berakhir dan kembali ke screen awal.
 
 # Screenshots
 
