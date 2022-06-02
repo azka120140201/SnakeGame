@@ -7,4 +7,19 @@
 - Ferawati Manurung (120140196)
 
 # Snake Game
-A snake game is a simple game where a snake moves trying to eat a fruit. Once it succesfully eats the fruit, the length of the snake increases.
+Snake Games adalah sebuah permainan tentang seekor ular yang mencari makanan. Setiap ular berhasil mendapatkan makanan maka tubuh ular akan bertambah panjang.
+
+
+# Cara Bermain
+
+
+
+# Screenshots
+
+tampilan awal game
+
+tampilan gameplay
+
+
+
+
