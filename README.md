@@ -18,6 +18,8 @@ Snake Games adalah sebuah permainan tentang seekor ular yang mencari makanan. Se
 
 tampilan awal game
 
+<img src="https://user-images.githubusercontent.com/89419086/171658205-d59f600f-f1f2-45ea-80db-3c1c94b03fe5.jpg" width = "200">
+
 tampilan gameplay
 
 
