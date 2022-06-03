@@ -9,6 +9,8 @@
 # Snake Game
 Snake Games adalah sebuah permainan tentang seekor ular yang mencari makanan. Setiap ular berhasil mendapatkan makanan maka tubuh ular akan bertambah panjang.
 
+# UML Class Diagram
+![WhatsApp Image 2022-06-03 at 7 57 13 AM](https://user-images.githubusercontent.com/100962621/171766737-d7f8aa2a-6001-4fc2-8d88-fb3deaabf135.jpeg)
 
 # Cara Bermain
 
